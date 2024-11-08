@@ -16,8 +16,6 @@ A comprehensive web-based application for analyzing stock data, visualizing hist
 ![Screenshot 1](https://raw.githubusercontent.com/SandeepTammana61/stock-Technical_analysis-dashboard/main/images/Screenshot%20(1127).png)
 
 
-### Screenshot 1
-![Screenshot 1](images/Screenshot (1127).png)
 
 ### Screenshot 2
 ![Screenshot 1](https://raw.githubusercontent.com/SandeepTammana61/stock-Technical_analysis-dashboard/main/images/Screenshot%20(1128).png)
