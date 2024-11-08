@@ -13,6 +13,7 @@ A comprehensive web-based application for analyzing stock data, visualizing hist
 - **Streamlit Interface**: User-friendly web interface with responsive tabs and layouts.
 
 - ## Screenshots
+![Alt text](images/Screenshot (1127).png)
 
 ### Screenshot 1
 ![Screenshot 1](images/Screenshot(1127).png)
