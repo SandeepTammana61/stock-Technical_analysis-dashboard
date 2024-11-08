@@ -13,6 +13,7 @@ A comprehensive web-based application for analyzing stock data, visualizing hist
 - **Streamlit Interface**: User-friendly web interface with responsive tabs and layouts.
 
 - ## Screenshots
+![Screenshot 1](https://raw.githubusercontent.com/SandeepTammana61/stock-Technical_analysis-dashboard/main/images/Screenshot%20(1127).png)
 
 
 ### Screenshot 1
