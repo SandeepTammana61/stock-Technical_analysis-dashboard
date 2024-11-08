@@ -12,6 +12,18 @@ A comprehensive web-based application for analyzing stock data, visualizing hist
 - **Customizable Dashboard**: Configure stock tickers, analysis models, and response timeouts easily.
 - **Streamlit Interface**: User-friendly web interface with responsive tabs and layouts.
 
+- ## Screenshots
+
+### Screenshot 1
+![Screenshot 1](images/1127.png)
+
+### Screenshot 2
+![Screenshot 2](images/1128.png)
+
+### Screenshot 3
+![Screenshot 3](images/1129.png)
+
+
 ## Installation
 
 1. **Clone the Repository**:
