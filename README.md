@@ -15,7 +15,7 @@ A comprehensive web-based application for analyzing stock data, visualizing hist
 - ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](images/Screenshot(1127))
+![Screenshot 1](images/Screenshot(1127).PNG)
 
 ### Screenshot 2
 ![Screenshot 2](images/1128.png)
