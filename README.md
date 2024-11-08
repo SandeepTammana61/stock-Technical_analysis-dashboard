@@ -17,3 +17,10 @@ A comprehensive web-based application for analyzing stock data, visualizing hist
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SandeepTammana61/stock-Technical_analysis-dashboard.git
+
+cd stock-Technical_analysis-dashboard
+
+pip install -r requirements.txt
+
+
+streamlit run app.py
